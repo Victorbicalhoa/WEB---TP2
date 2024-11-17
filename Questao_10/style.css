@@ -1,0 +1,25 @@
+.borda {
+    border: 2px solid black;
+}
+
+.texto {
+    color: blue;
+    font-size: 20px;
+}
+
+.fundo {
+    background-color: yellow;
+    padding: 10px;
+}
+
+#galeria {
+    display: flex;
+    flex-direction: row;
+    gap: 10px; 
+}
+
+#galeria img {
+    width: 200px; 
+    height: auto; 
+    border: 2px solid black; 
+}

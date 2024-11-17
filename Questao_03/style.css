@@ -1,0 +1,21 @@
+p {
+    border: solid 1px gray;
+    font-size: 16px;
+    color: skyblue;
+    padding: 5px;
+    background-color: beige;    
+}
+
+.borda{
+    border: 2px solid red;
+}
+
+.texto{
+    color: greenyellow;
+    font-size: 22px;
+}
+
+.fundo{
+    background-color: blueviolet;
+    padding: 20px;
+}
